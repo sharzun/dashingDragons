@@ -1,6 +1,7 @@
 # dashingDragons
+Stage 1: 
 This repo is for our first Software Engineering Assignment
+This statement is the editing proved by Goh.
 
-This statement is the edditing prove by Goh.
-
-Test editing directly in Githubby Marvin.
+Stage 2: Proposal
+- Personal cloud storage using Raspberry Pi

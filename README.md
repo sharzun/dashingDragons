@@ -3,7 +3,7 @@
 Stage 1:
 ### Members of Group
 - Marvin Chua Khai Chien (A19EE0066)
-- Sharzun
+- Sharzun (A19EE0362)
 - Goh
 
 Stage 2: Proposal

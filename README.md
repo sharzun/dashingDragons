@@ -21,7 +21,7 @@ Online musics have become a popular thing among youngsters but some of them pref
 
 
 ### Dashboard
-![image](https://user-images.githubusercontent.com/62568607/204986529-7095081f-0a76-4b14-ac8b-574ef2f4f171.png)
+![image.jpg](https://www.techplayon.com/wp-content/uploads/2022/06/y2mate-com-YouTube-Downloader-730x471.jpg)
 
 ### References
-[https://pimylifeup.com/raspberry-pi-owncloud/](https://blog.devgenius.io/download-a-video-from-youtube-and-convert-it-to-mp3-using-python-django-552141990d57)
+[YouTube mp3 downloader/](https://blog.devgenius.io/download-a-video-from-youtube-and-convert-it-to-mp3-using-python-django-552141990d57)

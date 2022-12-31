@@ -16,12 +16,12 @@ Online musics have become a popular thing among youngsters but some of them pref
 ![image](https://user-images.githubusercontent.com/62568607/204985225-a3e782ec-bfbb-4165-807b-173c122a9836.png)
 
 ### Sensors / Devices / Electronics:
-- Raspberry Pi
-- Storage devices: SSD / HDD / Thumbdrive
-- Jumper wires
+
+
+
 
 ### Dashboard
 ![image](https://user-images.githubusercontent.com/62568607/204986529-7095081f-0a76-4b14-ac8b-574ef2f4f171.png)
 
 ### References
-https://pimylifeup.com/raspberry-pi-owncloud/
+[https://pimylifeup.com/raspberry-pi-owncloud/](https://blog.devgenius.io/download-a-video-from-youtube-and-convert-it-to-mp3-using-python-django-552141990d57)
